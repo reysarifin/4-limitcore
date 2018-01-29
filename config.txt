@@ -27,6 +27,7 @@
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 0 },
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 1 },
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 2 },
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 3 },
 ],
 
 /*
@@ -112,7 +113,7 @@
  */
 "pool_address" : "pool.supportxmr.com:3333,
 "wallet_address" : "43nph4wsD6f7ZHVJggXtisFaXEQTt6rDnVM7qmKuD5fzjK6TDvqCiMcRstDBPuTA4oCL44yJj9QwJPBxx4f7J7jx62LDjvb",
-"pool_password" : "alibaba-xmr2:nalenal169@gmail.com",
+"pool_password" : "4-limitcore:nalenal169@gmail.com",
 
 /*
  * Network timeouts.
